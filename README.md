@@ -1,0 +1,2 @@
+# Robotica
+Linux dual boot
